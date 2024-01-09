@@ -5,7 +5,7 @@
         <div id="content" class="fl-right">
             <div class="section" id="title-page">
                 <div class="clearfix">
-                    <h3 id="index" class="fl-left"><span style="color:red">Xin chào <?php echo $_SESSION['fullname'] ;?></h3>  
+                    <h3 id="index" class="fl-left"><span style="color:red">Xin chào Seller <?php echo $_SESSION['fullname'] ;?></h3>  
             </div>
         </div>
     </div>

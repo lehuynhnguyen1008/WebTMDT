@@ -33,7 +33,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
 
 	<div class="login-body">
 			<div class="login-heading">
-				<h1>Login</h1>
+				<h1>Login Seller</h1>
 			</div>
 			<div class="login-info">
 				<form action="?modules=users&controllers=index&action=login" method="post">
